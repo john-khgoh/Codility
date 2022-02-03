@@ -1,0 +1,9 @@
+#4: Counting Elements: PermCheck
+
+A = [1,2,3,4]
+
+def solution(A):
+    max_A = max(A)
+    print
+    
+print(solution(A))
