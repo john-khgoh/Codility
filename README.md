@@ -1,2 +1,2 @@
 # Codility
-My solutions for [Codility lessons](app.codility.com/programmers/lessons)
+My solutions for [app.codility.com/programmers/lessons](app.codility.com/programmers/lessons)
